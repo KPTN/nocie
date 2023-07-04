@@ -69,13 +69,13 @@ var json_ = [
 		],
 		[
 			/* List 05 */
-			["JSON Editor", "https://jsoneditoronline.org/"],
-			["FileFormat", "https://www.fileformat.info/index.htm"],
-			["RosettaCode", "https://rosettacode.org/wiki/Category:Octave"],
-			["Science General", "https://www.cs.utah.edu/~germain/PPS/Topics/"],
-			["Desmos", "https://www.desmos.com/calculator"],
-			["FlatIcon", "https://www.flaticon.com/"],
-			["Instructables", "https://www.instructables.com/"]
+			["Yet another generic startpage", "https://github.com/PrettyCoffee/yet-another-generic-startpage"],
+			["An iTerm-inspired startpage", "https://github.com/peterrauscher/startpage"],
+			["Bento", "https://github.com/migueravila/Bento"],
+			["Collection", "https://startpages.github.io/"],
+			["minimal-light", "https://github.com/yaoyao-liu/minimal-light"],
+			["Minimal Mistakes Jekyll theme", "https://github.com/mmistakes/minimal-mistakes"],
+			["Custom homepage", "https://github.com/Jaredk3nt/homepage"]
 		]
 	]
 ]
